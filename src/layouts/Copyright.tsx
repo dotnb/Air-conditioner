@@ -14,7 +14,7 @@ function Copyright() {
           </Link>
           {" - "}
           <Link color="inherit" href="#" target="_blank">
-            "白色风车"
+            VICE
           </Link>
         </Typography>
       </Box>
