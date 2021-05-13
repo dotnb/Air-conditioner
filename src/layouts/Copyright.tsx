@@ -14,7 +14,7 @@ function Copyright() {
           </Link>
           {" - "}
           <Link color="inherit" href="#" target="_blank">
-            VICE
+            {pkg.author.name}
           </Link>
         </Typography>
       </Box>
