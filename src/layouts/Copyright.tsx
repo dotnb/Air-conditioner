@@ -13,7 +13,7 @@ function Copyright() {
             Yun Air Conditioner
           </Link>
           {" - "}
-          <Link color="inherit" href="javascript:void(0);" target="_blank">
+          <Link color="inherit" href=# target="_blank">
             "白色风车"
           </Link>
         </Typography>
