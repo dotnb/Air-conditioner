@@ -16,6 +16,10 @@ import { RootState } from "../app/store";
 import Copyright from "../layouts/Copyright";
 import { useDetectStorage } from "../features/ac";
 
+/**
+ * 主页
+ * @returns
+ */
 function Home() {
   const ac = useAppSelector((state: RootState) => state.ac);
 
